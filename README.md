@@ -5,4 +5,6 @@
 * Usando-se de padrões empresariais como rastreador de modificações no banco de dados.
 * Padrões de retorno de mensagem com Status HTTP.
 * Exceptions customizadas para melhor entendimento do cliente.
+# Observações
+* Não há commits de acompanhamento do projeto, porque não conhecia direito Git durante a criação do projeto.
 
